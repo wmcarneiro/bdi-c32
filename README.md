@@ -1,6 +1,2 @@
 ﻿# bdi-c32
-Projeto BDI-C3² 20155fdsafdsfdsafsdafadfdasfd
-
-Criando conflitos...
-
-...
+Projeto BDI-C3² 2015
