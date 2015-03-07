@@ -1,1 +1,3 @@
 Checando o envio de arquivo para commit.
+Agora, commit com push...
+
