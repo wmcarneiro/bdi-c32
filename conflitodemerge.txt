@@ -1,0 +1,8 @@
+Segundo arquivo para erro de conflito
+conflito de merge
+
+lucas correa
+
+gerando o conflito agora
+
+feito o ajuste manual no arquivo txt
