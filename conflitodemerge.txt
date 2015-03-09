@@ -1,1 +1,3 @@
 Segundo arquivo para erro de conflito
+conflito de merge
+
