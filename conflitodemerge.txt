@@ -1,2 +1,4 @@
 conflito de merge
 lucas correa
+
+gerando o conflito agora
