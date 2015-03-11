@@ -1,1 +1,1 @@
-Esse é um novo arquivo
+Conteúdo do arquivo para resolução de conflitos de merge
