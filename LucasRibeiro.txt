@@ -1,1 +1,1 @@
-Texto teste alterado no branch 2
+Esse é um novo arquivo
