@@ -1,5 +1,5 @@
 Segundo arquivo para erro de conflito
-conflito de merge
+conflito de merge2
 
 lucas correa
 
