@@ -1,2 +1,1 @@
-Texto alterado no branch
-Nova linha adicionada no arquivo 2
+Resolvendo conflitos de merge
