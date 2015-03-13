@@ -1,1 +1,4 @@
-texto de teste daniel 123
+texto de teste daniel
+agora sim simulando um merge
+
+aeee!!!! agora sim, arquivo mesclado!
