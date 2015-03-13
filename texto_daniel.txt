@@ -1,1 +1,2 @@
 texto de teste daniel
+agora sim simulando um merge
