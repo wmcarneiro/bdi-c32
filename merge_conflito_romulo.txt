@@ -1,1 +1,1 @@
-Primeira linha criada no branch master.
+Primeira linha criada no branch master. Um triangulo possui 3 lados.
