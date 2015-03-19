@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Primeira linha criada no branch master. Um triangulo possui 3 lados.
+=======
+Primeira linha criada no branch master.
+
+Segunda linha teste merge.
+>>>>>>> origin/romulocptec
